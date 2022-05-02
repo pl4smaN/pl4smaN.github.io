@@ -24,10 +24,15 @@ body {
 	transition: all 1s ease-out;
 	font-family: DejaVuSansMono;
 	font-size: 125%;
-  	height: 500px; /* You must set a specified height */
-  	background-position: center; /* Center the image */
-  	background-repeat: no-repeat; /* Do not repeat the image */
-  	background-size: cover; /* Resize the background image to cover the entire container */
+  
+  /* Full height */
+ 	 height: 100%;
+
+  /* Center and scale the image nicely */
+  	background-position: center;
+  	background-repeat: no-repeat;
+  	background-size: cover;
+}
 }
 
 .Title {
