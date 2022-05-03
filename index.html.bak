@@ -9,7 +9,7 @@
         crossorigin="anonymous">
     <link href="https://fonts.googleapis.com/css?family=Roboto|Roboto+Condensed|Roboto+Slab" rel="stylesheet">
     <link rel="stylesheet" href="style.css">
-    <title>r0bb3ns0n</title>
+    <title>samsepi0l</title>
 </head>
 
 <body>
@@ -67,7 +67,7 @@
     <div id="banner">
         <h1>r0bb3ns0n</h1>
         <h3>Personal Website ;)</h3>
-		<h3>scoll down :/</h3>
+	<h3>scoll down :/</h3>
 	<a href="https://discord.gg/VWF77k6RW7" class="btn-readmore">join discord</a>
     </div>
 
